@@ -90,10 +90,10 @@ I'm **ANIRUDH ATHYAM**, a passionate **Student** and **Fresher** exploring the w
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-anirudhatyam9--glitch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudhatyam9-glitch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh%20Athyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhatyam9-glitch)
-[![Instagram](https://img.shields.io/badge/Instagram-anirudhatyam9--glitch-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anirudhatyam9-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh%20Athyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-atyam-878698379)
+[![Instagram](https://img.shields.io/badge/Instagram-anirudhatyam9--glitch-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alwaysanirudh_1?igsh=YmZmZDRldDgzdmls)
 [![Medium](https://img.shields.io/badge/Medium-anirudhatyam9--glitch-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anirudhatyam9-glitch)
-[![YouTube](https://img.shields.io/badge/YouTube-anirudhatyam9--glitch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anirudhatyam9-glitch)
+[![YouTube](https://img.shields.io/badge/YouTube-anirudhatyam9--glitch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anirudhatyam2346?si=nXLriWTEQcz1y3oG)
 
 </div>
 
