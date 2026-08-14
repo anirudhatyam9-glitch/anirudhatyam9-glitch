@@ -52,10 +52,10 @@ I'm **ANIRUDH ATHYAM**, a passionate **Student** and **Fresher** exploring the w
 
 <div align="center">
 
-[![YouTube Subscribers](https://img.shields.io/badge/YouTube-Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anirudhatyam9-glitch)
+[![YouTube Subscribers](https://img.shields.io/badge/YouTube-Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]https://youtube.com/@anirudhatyam2346?si=nXLriWTEQcz1y3oG
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anirudhatyam9-glitch)
-[![Instagram Followers](https://img.shields.io/badge/Instagram-Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anirudhatyam9-glitch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhatyam9-glitch)
+[![Instagram Followers](https://img.shields.io/badge/Instagram-Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]https://www.instagram.com/alwaysanirudh_1?igsh=YmZmZDRldDgzdmls
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-atyam-878698379)
 
 </div>
 
